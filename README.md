@@ -11,5 +11,6 @@ _Please note this list of members is tentative and subject to change as students
 - Shoi R.
 - Yukatha S.
 - Weiting Y.
+- H. Charles
 
 
