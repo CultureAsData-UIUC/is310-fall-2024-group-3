@@ -13,4 +13,13 @@ _Please note this list of members is tentative and subject to change as students
 - Weiting Y.
 - H. Charles
 
+## Topics
 
+
+## Materials
+
+
+## Division of Labor
+
+
+## Timeline
