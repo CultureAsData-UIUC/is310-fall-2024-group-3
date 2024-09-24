@@ -17,6 +17,11 @@ _Please note this list of members is tentative and subject to change as students
 
 
 ## Materials
+- existing digital materials from Spotify and related databases.
+  the dataset of Top 10000 Songs on Spotify 1960-Now and Billboard HOT 100 Songs Spotify Data (1946-2022) from Kaggle
+- social media data such as Twitter or Youtube can help understand public sentiment and engagement with popular songs.
+- academic papers or journal articles
+  journal articles: The Geographic Flow of Music on Spotify 
 
 
 ## Division of Labor
