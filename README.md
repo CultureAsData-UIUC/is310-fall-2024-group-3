@@ -27,3 +27,6 @@ For this project there are many different tasks that need to be planned out effe
 This initial proposal must be submitted as part of your group’s GitHub repository, which will be thoroughly documented (a topic we will discuss in detail in class). You should aim for 750-1000 words and include relevant links to materials or scholarly sources. Feel free to incorporate tables, graphs, bullet points, or any other formats that will help you clearly outline the goals and plan for this project.
 Ultimately, this proposal should lay the groundwork for your project and serve as your blueprint for the semester. It will guide your group’s work and ensure that you stay aligned with your research objectives.
 In our first few weeks, we will be discussing what makes a good topic, and you are also welcome to schedule a meeting or contact the Instructor to brainstorm possible topics.
+
+
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)
