@@ -30,11 +30,14 @@ Shoi: responsible for web scraping to contextualize the group’s music dataset
 Yuktha: responsible for writing out the data content description 
 
 ## Reference
-Charles: responsible for data cleaning, column adjustment, removal of unnecessary rows and columns from Spotify dataset. 
-Jeff : responsible for compiling information/data historical events, social movements, and political trends that are related to or affected music trends over time.
-Weiting: responsible for dataset description and organizing the formatting and writing of this midterm project paper
-Shoi: responsible for web scraping to contextualize the group’s music dataset
-Yuktha: responsible for writing out the data content description 
+America’s best history timeline. (n.d.). https://americasbesthistory.com/abhtimeline.html
+
+Dave, D. (2021, November 9). Billboard “The Hot 100” songs. Kaggle.
+https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs
+
+Sharma, T. (2023, June 1). Billboard hot 100 songs Spotify Data (1946-2022). Kaggle.
+https://www.kaggle.com/datasets/tushar5harma/billboard-hot-100-songs-spotify-data-1946-2022
+
 
 
 
