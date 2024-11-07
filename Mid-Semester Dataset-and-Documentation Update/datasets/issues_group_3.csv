@@ -1,0 +1,180 @@
+html_url,issue_status_on_project_board,title,created_at,content.body,user.login,state,body,updated_at,closed_at,assignee,assignees,labels,milestone,draft,comments,state_reason,closed_by.login,reactions.total_count,pull_request.url,assignees_logins,issue_duration,issue_associated_with_pull_request
+,In Progress,"methodology research, Jeff and weiting",2024-10-10 01:06:22+00:00,,chuzesta,,,,,,,,,,,,,,,,,False
+,In Progress,"topic scope narrowing - Charles, yuktha, shoi",2024-10-10 01:06:36+00:00,,chuzesta,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/8,Done,[Weekly Report] Project Manager for {9/09},2024-09-24 03:16:17+00:00,,shoirathi,closed,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [X] Created a weekly report for the group project
+- [X] Updated the project board
+- [X] Checked in with team members
+- [X] Assigned tasks for the upcoming week
+- [X] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- Our goal was to first get set on a question that we all agreed on and wanted to work on for the project
+- Find some initial datasets related to the topic
+- What has been accomplished?
+- We were able to decide on a question that we all agreed on and we expanded on it
+- We found some Spotify datasets that we could use
+- Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+
+- What are the goals for the upcoming week?
+- Complete Project Proposal
+- 
+- Who is assigned to what tasks?
+- We all are working on the group proposal together
+- Jeff- Topic
+- Shoi & Yuktha- Timeline
+- Charles- Division of labor
+- Weiting-Materials
+
+## Notes/Additional Information:
+*Optional additional information*
+",2024-09-24 03:16:23+00:00,2024-09-24 03:16:23+00:00,,[],[],,,0.0,completed,shoirathi,0.0,,,0.0,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/9,Done,[Weekly Report] Project Manager for {9/17},2024-09-24 03:19:11+00:00,,shoirathi,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/5,Done,Semester Project: Topic - Jeff,2024-09-24 03:03:02+00:00,,shoirathi,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/6,Done,Semester Project: Timeline-Shoi & Yuktha,2024-09-24 03:03:53+00:00,,shoirathi,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/7,Done,Semester Project: Materials-Weiting,2024-09-24 03:04:39+00:00,,shoirathi,closed,,2024-09-24 16:24:49+00:00,2024-09-24 16:24:49+00:00,,"[{'login': 'tinayang922', 'id': 143042892, 'node_id': 'U_kgDOCIapTA', 'avatar_url': 'https://avatars.githubusercontent.com/u/143042892?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/tinayang922', 'html_url': 'https://github.com/tinayang922', 'followers_url': 'https://api.github.com/users/tinayang922/followers', 'following_url': 'https://api.github.com/users/tinayang922/following{/other_user}', 'gists_url': 'https://api.github.com/users/tinayang922/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/tinayang922/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/tinayang922/subscriptions', 'organizations_url': 'https://api.github.com/users/tinayang922/orgs', 'repos_url': 'https://api.github.com/users/tinayang922/repos', 'events_url': 'https://api.github.com/users/tinayang922/events{/privacy}', 'received_events_url': 'https://api.github.com/users/tinayang922/received_events', 'type': 'User', 'user_view_type': 'public', 'site_admin': False}]",[],,,0.0,completed,shoirathi,0.0,,,0.0,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/4,Done,Semester Project: Division of Labor- Charles,2024-09-24 03:02:11+00:00,,shoirathi,closed,,2024-09-24 17:33:44+00:00,2024-09-24 17:33:44+00:00,,[],[],,,0.0,completed,shoirathi,0.0,,,0.0,False
+,Todo,validate and augment data set,2024-10-10 01:06:51+00:00,,chuzesta,,,,,,,,,,,,,,,,,False
+,Todo,Mid semester dataset documentation,2024-10-29 04:05:41+00:00,,tinayang922,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/14,,Project Manager for Week 9,2024-10-30 04:17:26+00:00,,tinayang922,open,"# Project Manager Weekly Report
+
+## Weekly Checklist
+
+[v] Created a weekly report for the group project
+[v] Updated the project board
+[v] Checked in with team members
+[v] Assigned tasks for the upcoming week
+[v] Closed issue once the weekly tasks were completed
+
+## Weekly Summary:
+-Organized the initial dataset, integrating Spotify data and identifying key variables for analysis.
+-Defined historical themes relevant to music trends, such as social, political, and economic events, to guide future data additions.
+-Conducted data cleaning to remove duplicates and irrelevant entries to refine the dataset’s focus.
+-Created an outline for Mid-Semester Documentation, ensuring that all team members are aligned on content requirements and structure.
+
+## Next Week's Goals:
+-Charles: Begin gathering additional historical context data to complement Spotify trends.
+-Jeff: Continue compiling data on historical events and social movements to add depth to the project.
+-Weiting: Start developing documentation guidelines for dataset descriptions.
+-Shoi: Explore web scraping options to source contextual data related to music history for integration into the dataset.
+
+## Notes/Additional Information:
+N/A",2024-10-30 04:17:26+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/13,,Project Manager for Week 10,2024-10-30 01:13:40+00:00,,tinayang922,open,"# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [v] Created a weekly report for the group project
+- [v] Updated the project board
+- [v] Checked in with team members
+- [v] Assigned tasks for the upcoming week
+- [v] Close issue once the weekly tasks are completed
+
+## Week 10 Summary:
+
+- Search music history and USA history timeline
+- Complete Mid-Semester Dataset and Documentation 
+- Add the new data and columns in the initial created dataset
+- Clean unnecessary data points and columns 
+
+## Week 11's Goals:
+-Charles:  data cleaning, adjust columns, remove unnecessary rows and columns from Spotify dataset
+-Jeff : compile information/data historical events, social movements, and political trends into the dataset
+-Weiting: dataset description and documentation. 
+-Shoi: web scraping to contextualize the group’s music dataset
+-Start preliminary analysis on our new/expanded dataset
+
+## Notes/Additional Information:
+Stay on track and start brainstorming questions for data analysis and visualization",2024-10-30 01:14:00+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/12,,[Weekly Report] Project Manager for {Week},2024-10-10 00:59:21+00:00,,chuzesta,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [ ] Created a weekly report for the group project
+- [ ] Updated the project board
+- [ ] Checked in with team members
+- [ ] Assigned tasks for the upcoming week
+- [ ] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- Read the instructor feedback on the project proposal.
+- Brainstorm ways to implement feedback into project.
+- What has been accomplished?
+- Group discussion of feedback.
+- Role assignment and next steps.
+- Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+- Conducts research into previous music related data projects in order to flush out methodology and gain perspective.
+- Narrow scope of topic question down to be more tangible and quantifiable.
+- Look into what we need to do in order to validate the datasets that we are using, as well as what we will do to augment them. 
+- Who is assigned to what tasks?
+- Shoi, Charles, Yuktha - Narrowing scope of topic question.
+- Jeff, Waiting - Methodology Research, 
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-28 01:08:08+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/3,,Critical Culture Assignment,2024-09-24 02:15:34+00:00,,shoirathi,open,,2024-09-24 02:20:44+00:00,,,"[{'login': 'tinayang922', 'id': 143042892, 'node_id': 'U_kgDOCIapTA', 'avatar_url': 'https://avatars.githubusercontent.com/u/143042892?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/tinayang922', 'html_url': 'https://github.com/tinayang922', 'followers_url': 'https://api.github.com/users/tinayang922/followers', 'following_url': 'https://api.github.com/users/tinayang922/following{/other_user}', 'gists_url': 'https://api.github.com/users/tinayang922/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/tinayang922/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/tinayang922/subscriptions', 'organizations_url': 'https://api.github.com/users/tinayang922/orgs', 'repos_url': 'https://api.github.com/users/tinayang922/repos', 'events_url': 'https://api.github.com/users/tinayang922/events{/privacy}', 'received_events_url': 'https://api.github.com/users/tinayang922/received_events', 'type': 'User', 'user_view_type': 'public', 'site_admin': False}]",[],,,0.0,reopened,shoirathi,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-3/issues/2,,[Weekly Report] Project Manager for {Week 1},2024-09-24 02:00:07+00:00,,shoirathi,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [X ] Created a weekly report for the group project
+- [X ] Updated the project board
+- [X ] Checked in with team members
+- [ X] Assigned tasks for the upcoming week
+- [X ] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- Settle down on a final question to base the project off of
+- Find a dataset that best applies to our question
+- Find more data which can help determine the context of the historical time period which could help determine why the certain type of music was popular
+- What has been accomplished?
+- So far we have narrowed in on the question regarding how the medium and time period of music consumption impacts the type of music that is deemed popular and is widely liked and appreciated. 
+- Found a Spotify dataset which could help guide our analysis
+- Using the data from Billboard Top 100 songs
+-  Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+- Find more context on the datasets 
+- Find a dataset to compare the popular songs to what was going on in that time period
+- Compare and Contrast the timeline of when the song was released and the major social events going on at that time with the type of songs that were popular
+- Who is assigned to what tasks?
+Charles- Division of Labor
+Weiting- Materials
+Jeff- Topic, 
+Shoi-Timeline
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-09-24 02:00:07+00:00,,,[],[],,,0.0,,,0.0,,,,False
