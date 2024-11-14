@@ -1,0 +1,17 @@
+oid,message,committedDate,additions,deletions,changedFiles,login
+e9dfca7d3dd38e7f8e2a1230ce9a2f32c5241973,Add files via upload,2024-10-15T18:36:45Z,11,0,1,tinayang922
+09d24ab2260cb12cad71e4b7c46f2bfe8db42552,Update proprietary_platform_exploration.md,2024-10-15T18:34:29Z,76,57,1,tinayang922
+05c300f10e7a08852283ce1ec61530426b518e8b,Update proprietary_platform_exploration.md,2024-10-15T18:30:53Z,92,5,1,tinayang922
+7c4d268f88362e4e4119313ccc59dec3cad7d363,Update README.md,2024-09-24T18:15:28Z,9,10,1,tinayang922
+4a81df5f5ddd7fb2178ca71c5432cc3edbff4641,Delete .DS_Store,2024-09-24T03:04:47Z,0,0,1,tinayang922
+aa62ff629afbad89b9e93590ec4d8a39cb3f8d8c,oopsMerge remote-tracking branch 'refs/remotes/origin/main',2024-09-24T03:03:20Z,41,0,2,tinayang922
+1f0083d6d2b86bf34fabfa1421d51d21f30341ff,critical cultural,2024-09-24T03:02:38Z,14803,0,8,tinayang922
+d40df36c071886d695bd94882df9830be19a088c,added mass digitization,2024-09-22T19:34:11Z,157,0,1,tinayang922
+c52927371ec42a54db2451f90ce06c1192d9d339,Done,2024-10-14T21:58:27Z,8,0,2,tinayang922
+dcf019eb9fdff225fb3ed475d1959c60f9ce836f,Add CC BY 4.0 license badge to README,2024-10-15T06:23:50Z,3,0,1,yukthas2
+0353b7a5f9bdfa8ec5b65c5623b8b2097f158822,add creative commons attribution 4.0 international public license,2024-10-15T06:22:25Z,395,0,1,yukthas2
+3485fb90b4a82934b06b363caab913a79ad814c0,Update README.md,2024-09-24T03:56:19Z,5,0,1,tinayang922
+a41d1fffe791d316887a6303d92c2df26d9217d7,content README.md,2024-09-12T19:43:00Z,9,0,1,tinayang922
+7631d20233f8849890a9a7180f0c4cdfa916253c,"Merge pull request #1 from CultureAsData-UIUC/adding-project-management-workflow
+
+Added project management workflow issue template",2024-09-23T21:42:31Z,41,0,2,shoirathi
