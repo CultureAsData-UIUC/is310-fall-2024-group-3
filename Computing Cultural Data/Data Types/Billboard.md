@@ -1,5 +1,4 @@
-# Data Types
-To be updated with a description for a collaborative semester long project
+# Data Types: BillBoard
 
 ## Article
 And the Beat Goes On: Popular Billboard Song Beats Per Minute and Key Signatures Vary with Social and Economic Conditions 
