@@ -1,21 +1,21 @@
-# Data Types: BillBoard
+# Data Types
 
 ## Article
 And the Beat Goes On: Popular Billboard Song Beats Per Minute and Key Signatures Vary with Social and Economic Conditions 
 
 ## Bibliographic Information:
-- Authors: Terry F. Pettijohn II, Donald Eastman, Kyle Richard
-- Publication Venue: Current Psychology
-- Publication Date: March 2012
-- Link: https://link.springer.com/article/10.1007/s12144-012-9149-y
+Authors: Terry F. Pettijohn II, Donald Eastman, Kyle Richard
+Publication Venue: Current Psychology
+Publication Date: March 2012
+Link: https://link.springer.com/article/10.1007/s12144-012-9149-y
 
 
 ## Data Type Description: 
-- Billboard Music Data: 
+-Billboard Music Data: 
 BPM (Beats Per Minute): Numerical representation of song tempo.
 Key Signature: Categorical data reflecting tonality (e.g., major/minor keys, sharp/flat keys).
 
-- Socio-Economic Data:
+-Socio-Economic Data:
 General Hard Times Measure (GHTM): Composite numerical data encapsulating societal difficulties (e.g., unemployment, inflation).
 
 ## Article Argument Summary:
